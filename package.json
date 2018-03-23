@@ -1,6 +1,6 @@
 {
   "name": "css-variable-theme-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Generate theme stylesheets by extracting theme css variables",
   "main": "index.js",
   "engines": {
